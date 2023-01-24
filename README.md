@@ -4,4 +4,4 @@ In this project, I am utilizing the power of data cleaning. Most raw data, wheth
 1. Remove irrelevant data
 2. Deduplicate your data (used join to fill out any empty data)
 3. Deal with missing data
-4. Create new columns to separate the Addresse, City, and State (using parsename and altering the entire table)
+4. Create new columns to separate the Address, City, and State (using parsename and altering the entire table)
